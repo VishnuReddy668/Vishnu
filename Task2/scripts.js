@@ -1,5 +1,3 @@
-### 3. JavaScript (scripts.js)
-javascript
 document.getElementById('todoForm').addEventListener('submit', function(event) {
     event.preventDefault();
     const todoInput = document.getElementById('todoInput');
